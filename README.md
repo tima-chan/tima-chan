@@ -1,8 +1,7 @@
-[![MasterHeader]()
 
 <h1 align="center">Hey, my name's Fatimah</h1>
 <h3 align="center">I'm a Data Analyst and an Economist from Egypt 🦸🏻‍♀️</h3>
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
+<img align="center" alt="Coding" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
 
 <p I majored in Economics, and minored in Social Science Computing, where I learned about Data Science and Data Analysis. I decided this was the field I'm going to work at. Data, data, data... A lot of data everywhere, in many shapes and formats... I thought it's just fair to be a Data Scientist, and make sense of some of these huge packs of data. </p>
 
