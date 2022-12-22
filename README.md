@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/Cl_men_ine" target="blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Fatimah-blue" alt="Cl_men_ine" /></a> </p>
 
 
-- 📝 Check my latest updated CV [Fatimah's CV](https://drive.google.com/file/d/1ZpAKErI19uGaTcM8yRdsu0ABPHnHN_ZF/view?usp=sharing)
+- 📝 Check my latest updated CV [Fatimah's CV](https://drive.google.com/file/d/171y6BwQgIflQKNREOjDiIADu3gtm0OmZ/view?usp=share_link)
 
 - 💬 I enjoy talking about **Data Analysis, Economics, Finance, Art, History and Philosophy**.
 
