@@ -3,16 +3,13 @@
 <h3 align="center">I'm a curious Data Scientist and an Economist from Egypt 🦸🏻‍♀️</h3>
 <img align="center" alt="Coding" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
 
-<p I majored in Economics, and minored in Social Science Computing, where I learned about Data Science and Data Analysis. I decided this was the field I'm going to work at. Data, data, data... A lot of data everywhere, in many shapes and formats... I thought it's just fair to be a Data Scientist, and make sense of some of these huge packs of data. </p>
 
 <p align="left"> <a href="https://twitter.com/Cl_men_ine" target="blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Fatimah-blue" alt="Cl_men_ine" /></a> </p>
 
 
 - 📝 Check my latest updated CV [Fatimah's CV](https://drive.google.com/file/d/171y6BwQgIflQKNREOjDiIADu3gtm0OmZ/view?usp=share_link)
 
-- 💬 I enjoy talking about **Data Analysis, Economics, Finance, Art, History and Philosophy**.
-
-- 📫 Reach out **fatimah.farouk@outlook.com** or **fatma.ehab2015@feps.edu.eg**.
+- 💬 I enjoy talking & reading about **data, economics, art, sociology, literature and philosophy**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
