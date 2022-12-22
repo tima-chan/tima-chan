@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, my name's Fatimah</h1>
+<h1 align="center">Hey, this is Fatimah!</h1>
 <h3 align="center">I'm a Data Scientist and an Economist from Egypt 🦸🏻‍♀️</h3>
 <img align="center" alt="Coding" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
 
