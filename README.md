@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey, this is Fatimah!</h1>
-<h3 align="center">I'm a curious Data Scientist and an Economist from Egypt 🦸🏻‍♀️</h3>
+<h3 align="center">I'm a curious Data Scientist and an Economist from Egypt who help teams grow their businesses with analytics services.🦸🏻‍♀️</h3>
 <img align="center" alt="Coding" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
 
 
 <p align="left"> <a href="https://twitter.com/Cl_men_ine" target="blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Fatimah-blue" alt="Cl_men_ine" /></a> </p>
 
 
-- 📝 Check my latest updated CV [Fatimah's CV](https://drive.google.com/file/d/171y6BwQgIflQKNREOjDiIADu3gtm0OmZ/view?usp=share_link)
+- 📝 Check my latest updated resume: [Fatimah's CV](https://drive.google.com/file/d/171y6BwQgIflQKNREOjDiIADu3gtm0OmZ/view?usp=share_link)
 
 - 💬 I enjoy talking & reading about **data, economics, art, sociology, literature and philosophy**.
 
