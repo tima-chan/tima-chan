@@ -24,6 +24,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tima-chan&" alt="tima-chan" /></p> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tima-chan&show_icons=true&locale=en" alt="tima-chan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tima-chan&show_icons=true&locale=en&layout=compact" alt="tima-chan" /></p>
 
 
