@@ -1,23 +1,27 @@
+# Fatimah Farouk
+**Senior Data Analyst · Product & Growth Analytics** · Cairo, Egypt · remote
 
-<h1 align="center">Hey, this is Fatimah!</h1>
-<h3 align="center">I'm a curious Data Scientist and an Economist from Egypt who help teams grow their businesses with analytics services and ML models.🦸🏻‍♀️</h3>
-<img align="center" alt="Coding" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
+I turn product events into decisions. My work covers tracking plans, funnels, experiments, and root-cause analysis for FinTech and quick-commerce teams.
 
+[LinkedIn](https://www.linkedin.com/in/fatimafarouk/) · [Kaggle](https://www.kaggle.com/timachan)
 
-<p align="left"> <a href="https://twitter.com/Cl_men_ine" target="blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Fatimah-blue" alt="Cl_men_ine" /></a> </p>
+---
 
+### What I've shipped
+- **FinTech trading app, 2025–now:** built the product event taxonomy (~40 events live across 4 core flows) and the Amplitude + GA4 + BigQuery analytics stack. Set up error dashboards with anomaly alerts, and root-caused issues such as false "Submit Email" errors that hit ~1,800 users/week.
+- **Quick-commerce, ~350K orders/week, 2024–25:** ran an order-failure root-cause analysis that cut the net fail rate by ~1 pp weekly. My vendor-funnel dashboard surfaced a device issue, and replacing the devices lifted conversions ~11%.
+- **FinTech investing app, 2022–24:** redesigned the KYC funnel, raising sign-up → KYC conversion by 12.4 pp. A/B tested CRM campaigns.
 
-- 💬 I enjoy talking & reading about **data, economics, art, sociology, literature and philosophy**.
+### Toolbox
+`SQL` `BigQuery` `Python (pandas, SciPy, statsmodels)` `Amplitude` `GA4` `Tableau` `Power BI` `Metabase` `CleverTap`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fatimafarouk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatimafarouk/" height="30" width="40" /></a>    <a href="https://www.kaggle.com/timachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/timachan" height="30" width="40" /></a>  <a href="https://www.facebook.com/timachan11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/timachan11/" height="30" width="40" /></a>
-</p>
+### Featured projects
+| Project | What it shows |
+|---|---|
+| [Order-Failure Root Cause](https://github.com/tima-chan/order-failure-root-cause) | Breadth-first search over 11,946 order segments with FDR-corrected tests; finds that 8 drivers explain 78% of failed deliveries |
+| [A/B Test — Website](https://github.com/tima-chan/A-B-Test-Website) | Hypothesis testing & logistic regression on a landing-page experiment |
+| [WeRateDogs Data Wrangling](https://github.com/tima-chan/Data-Wrangling-WeRateDogs) | API data collection, cleaning, and growth-metric analysis |
+| [Amazon Reviews NLP](https://github.com/tima-chan/Amazon_Reviews_NLP) | Review-helpfulness scoring; my team placed 3rd in the competition |
+| [Egypt's Economy 1961–2020](https://github.com/tima-chan/Egyptian-Economy) | Time-series EDA of GDP, inflation, and inequality |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>        <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    <a title="Scikit-learn" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>     <a title="Seaborn" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>      <a title="MySQL" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> </a>     <a  title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a>       <a title="PowerBI" href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>  </a>      <a title="Metabase" href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="Metabase" width="40" height="40"/> </a>    <a title="Google Analytics" href="https://analytics.google.com/analytics/web/provision/#/provision" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-official.svg" alt="Google Analytics" width="40" height="40"/> </a>  <a title="Zoho Analytics" href="https://www.zoho.com/ar/analytics/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" alt="Zoho" width="40" height="40"/> </a>     <a title="Jira" href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a>       <a title="Firebase" href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> 
-</p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tima-chan&show_icons=true&locale=en" alt="tima-chan" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tima-chan&" alt="tima-chan" /></p>
-
+<sub>All projects use public data. No employer code or data is published here.</sub>
